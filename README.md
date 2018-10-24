@@ -1,4 +1,6 @@
-﻿# antsdiscord
+﻿# 小白 全新电脑学翻墙
+
+
 这是一台新安装的windows 10操作系统
 从头开始学翻墙
 
@@ -9,3 +11,4 @@ https://codeload.github.com/ant19527/antsdiscord/zip/master
 这是从官网下的，别在国内网站下载，原因你懂的。
 
 3 安装完之后，
+4 打开readme.pdf文件，按照里面的步骤开始操作。
